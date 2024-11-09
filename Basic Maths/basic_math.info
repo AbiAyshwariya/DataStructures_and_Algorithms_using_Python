@@ -1,0 +1,14 @@
+Basic Maths
+The Basic Maths folder contains foundational mathematical algorithms and utilities commonly used in algorithmic problem-solving and competitive programming. This section covers essential mathematical functions and algorithms, implemented in Python, which serve as building blocks for more complex DSA topics.
+
+Contents
+Prime Numbers: Functions to check prime numbers, generate prime numbers within a range, and find prime factors.
+Greatest Common Divisor (GCD) and Least Common Multiple (LCM): Efficient algorithms like Euclidean algorithm for finding GCD and LCM.
+Factorial and Permutations: Functions to compute factorials, permutations, and combinations.
+Modular Arithmetic: Algorithms for modular exponentiation, modular inverses, and modular operations, useful for large integer calculations.
+Number Theory: Implementations of important number theory concepts like Sieve of Eratosthenes for prime generation, divisors of a number, and integer factorization.
+Mathematical Utilities: Utility functions for basic operations like power calculations, square roots, and logarithmic functions.
+Key Features
+Efficiency: Algorithms are optimized for performance, focusing on reducing time complexity.
+Reusability: Functions can be imported and reused across other modules for various DSA problems.
+Explanations: Each function includes code comments and explanations to help understand the purpose and working of the algorithm.
